@@ -1,0 +1,27 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Kevin Lanzon",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-webdriver": "^1.0.0",
+    "mocha": "^2.3.4",
+    "selenium-standalone": "^4.7.2",
+    "webdriverio": "^3.3.0"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
