@@ -5,13 +5,12 @@ A simple tested Node server using Express.js.
 
 ###Technologies used
 
-```sh
 - Node.js
 - Express.js
 - Mocha
 - Chai
 - Grunt
-```
+
 
 ###How to run
 
