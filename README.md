@@ -7,6 +7,7 @@ A simple tested Node server using Express.js.
 
 - Node.js
 - Express.js
+- Jasmine-Node
 - Mocha
 - Chai
 - Grunt
