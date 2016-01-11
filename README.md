@@ -22,3 +22,10 @@ $ npm start
 $ grunt
 Visit http://localhost:3000
 ```
+
+###How to run tests
+
+```sh
+$ grunt // will run feature tests with mocha chai
+$ npm test // will run unit tests with jasmine-node
+```
